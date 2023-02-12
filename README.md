@@ -1,5 +1,5 @@
 # Chenyang Wang
-created in 2/12/2023
+Created in 2/12/2023
 
 # Assignment name
 Wikipedia Self Bio Assignment
